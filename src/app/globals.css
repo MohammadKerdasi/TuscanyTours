@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h1 {
+    font-family: var(--font-Podcast), sans-serif;
+  }
+p,a,h2,span {
+    font-family: var(--font-OpenSans), sans-serif;
+    font-weight: 400;
+}  
+h2,h3{
+    font-family: var(--font-OpenSansBold), sans-serif;
+    font-weight: 800;
+}  
+b{
+    font-family: var(--font-OpenSansBold), sans-serif;
+    font-weight: 300;
+}  
