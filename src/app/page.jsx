@@ -98,7 +98,7 @@ export default function Home() {
     <>
       <Hero
         title="Enjoy in the best way!"
-        description="Enjoy our services for your trip anytime"
+        description="Enjoy our services for your trip anytime!"
         backgroundImage={HomeBackground.src}
       >
         <HeroTours/>
